@@ -30,7 +30,7 @@
 <body>
 
 	<%@include file="menu.jsp" %>
-
+	깃허브 테스트
 	<!-- 캐러셀 사용 하기 [ 슬라이드 사진 ]  -->
 	<div class="container">
 		<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
